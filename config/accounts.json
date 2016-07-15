@@ -1,0 +1,104 @@
+{
+  "sde": [{
+    "enterprise": "fssdetest",
+    "accounts": [{
+      "account": "fany",
+      "password": "123qwe"
+    }, {
+      "account": "swj1",
+      "password": "123qwe"
+    }, {
+      "account": "linxl",
+      "password": "123qwe"
+    }, {
+      "account": "houyf",
+      "password": "123456a"
+    }]
+  }],
+  "fte": [{
+    "enterprise": "ftetest",
+    "accounts": [{
+      "account": "fany",
+      "password": "123qwe"
+    }, {
+      "account": "swj1",
+      "password": "123qwe"
+    }, {
+      "account": "linxl",
+      "password": "123qwe"
+    }, {
+      "account": "houyf",
+      "password": "123456a"
+    }]
+  }],
+  "fte2": [{
+    "enterprise": "fsfte2a",
+    "accounts": [{
+      "account": "fany",
+      "password": "123qwe"
+    }, {
+      "account": "swj1",
+      "password": "123qwe"
+    }, {
+      "account": "linxl",
+      "password": "123qwe"
+    }, {
+      "account": "houyf",
+      "password": "123456a"
+    }, {
+      "account": "yangjh",
+      "password": "123456a"
+    }, {
+      "account": "15001351080",
+      "password": "123qwe"
+    }]
+  }],
+  "pte": [{
+    "enterprise": "ptetest",
+    "accounts": [{
+      "account": "fany",
+      "password": "123qwe"
+    }, {
+      "account": "swj1",
+      "password": "123qwe"
+    }, {
+      "account": "linxl",
+      "password": "123qwe"
+    }, {
+      "account": "houyf",
+      "password": "123456a"
+    }]
+  }],
+  "fsceshi": [{
+    "enterprise": "7",
+    "accounts": [{
+      "account": "fany",
+      "password": "123qwe"
+    }, {
+      "account": "swj1",
+      "password": "123qwe"
+    }, {
+      "account": "linxl",
+      "password": "123qwe"
+    }, {
+      "account": "houyf",
+      "password": "123456a"
+    }]
+  }],
+  "fktest": [{
+    "enterprise": "fktest",
+    "accounts": [{
+      "account": "fany",
+      "password": "123qwe"
+    }, {
+      "account": "swj1",
+      "password": "123qwe"
+    }, {
+      "account": "linxl",
+      "password": "123qwe"
+    }, {
+      "account": "houyf",
+      "password": "123456a"
+    }]
+  }]
+}

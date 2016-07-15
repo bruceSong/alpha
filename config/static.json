@@ -1,0 +1,20 @@
+{
+  "name": "Alpha Static Configuration",
+  "root": "your code/website/website/",
+  "index": ["index.html", "index.htm", "index.shtml", "index.jsp", "index.aspx"],
+  "gzip": true,
+  "expires": {
+    "match": ".(js|css|jpg|png|gif)$",
+    "maxAge": 31536000
+  },
+  "statics": [
+    {
+      "path": "/",
+      "alias": "D:\\wamp\\www\\workspace\\ibss-op\\src"
+    },
+    {
+      "path": "/resources",
+      "alias": "D:\\wamp\\www\\workspace\\ibss-op\\src\\resources"
+    }
+  ]
+}

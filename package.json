@@ -1,0 +1,28 @@
+{
+  "name": "alpha",
+  "version": "1.0.0",
+  "description": "FS-FE development server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "server": "node server.js",
+    "dev": "nodemon --debug server.js",
+    "eslint": "eslint ../alpha/**/*.js"
+  },
+  "pre-commit": ["eslint"],
+  "repository": {
+    "type": "git",
+    "url": "http://git.firstshare.cn/fe-tools/alpha.git"
+  },
+  "keywords": [
+    "front-end",
+    "development",
+    "server"
+  ],
+  "author": "luoying",
+  "license": "ISC",
+  "devDependencies": {
+    "pre-commit": "^1.1.3"
+  }
+}
